@@ -1,0 +1,1 @@
+var json_Zones__risque_13 = {"type":"FeatureCollection","name":"Zones__risque_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Canton_hot":null},"geometry":{"type":"MultiLineString","coordinates":[[[1.330324162544383,6.154680845570734],[1.333179515751262,6.147066570352076]]]}}]}

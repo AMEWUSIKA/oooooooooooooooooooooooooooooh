@@ -1,0 +1,1 @@
+var json_Hotspot_18 = {"type":"FeatureCollection","name":"Hotspot_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
